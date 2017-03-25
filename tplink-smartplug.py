@@ -21,6 +21,7 @@
 #
 import socket
 import argparse
+import win_inet_pton
 
 version = 0.1
 
